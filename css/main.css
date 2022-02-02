@@ -1,0 +1,10 @@
+.container{
+    background-color: gray;
+}
+.nav-item:hover{
+    background-color: indigo;
+
+}
+.spinner-border text-info{
+    align-content: center;
+}
